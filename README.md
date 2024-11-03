@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Batuhan Uruş 
-# Coders , PHP, Laravel, Javascript
+# Business Analyst, Software Quality Engineer
 <!--
 **batuhanurush/batuhanurush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
